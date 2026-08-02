@@ -1,4 +1,4 @@
 # AI-agent
 this is my first Git repository.
 <br>
-Author-aditya kumar
+Author-aditya kumar from CS
